@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Exoo25
+- My real name is **Mahdi Ali**
+- I live in **Pakistan**
+- I am **8** years old
+- I am the **youngest dev in the entire universe**
 - 👀 **I’m interested in python + html**
+- I have an app called **py hurts my arm**
 - ***Happy Coding***
-<h3>I will post my python codeeditor in python</h3>
+
 
 
 <!---
