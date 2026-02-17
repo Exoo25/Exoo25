@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Exoo25
 - My real name is **Mahdi Ali**
 - I live in **Pakistan**
-- I am **9** years old now and becoming 10 !
 - 👀 **I’m interested in python + html**
-- I have an app called **py hurts my arm**
+- I have an app called **databuddy**
 - ***Happy Coding***
 - I have a youtube chaneel [![click](https://img.shields.io/badge/Youtube-4D97FF?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@Exoo25-dev)
 ### 📊 GitHub Analytics
@@ -17,7 +16,7 @@
 [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/Exoo25)
 [![Mail](https://img.shields.io/badge/Mail-4D97FF?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:exoo25pro@gmail.com)
 <br>
-[![Store](https://img.shields.io/badge/shop-4D97FF?style=for-the-badge&logo=gumroad&logoColor=white)](gumroafd.com/Exoo25)
+[![Store](https://img.shields.io/badge/shop-4D97FF?style=for-the-badge&logo=gumroad&logoColor=white)](gumroad.com/Exoo25)
 [![Forum](https://img.shields.io/badge/Forum-Discuss-blue?style=for-the-badge&logo=discourse)](https://exoo25hub.forumotion.com)
 
 <!---
