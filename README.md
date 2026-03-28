@@ -12,15 +12,15 @@
 
 ###
 
-<h3 align="left">Bio:</h3>
+<h1 align="left">Bio:</h3>
 
 ###
 
-<p align="left">👋**Name**: Mahdi Ali<br>⚡**Age**: 10<br>🌐**Location**: Pakistan,Skardu(GB)<br>👀**Intersted In**: Python</p>
+<p align="left">👋<bold>Name</bold>: Mahdi Ali<br>⚡<bold>Age</bold>: 10<br>🌐<bold>Location</bold>: Pakistan,Skardu(GB)<br>👀<bold>Intersted In</bold>: Python</p>
 
 ###
 
-<h3 align="left">My Socials:</h3>
+<h1 align="left">My Socials:</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">My Contributions:</h3>
+<h1 align="left">My Contributions:</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">Tech Stack:</h3>
+<h1 align="left">Tech Stack:</h3>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">Statistics:</h3>
+<h1 align="left">Statistics:</h3>
 
 ###
 
@@ -91,7 +91,7 @@
 
 ###
 
-<h3 align="left">Applications:</h3>
+<h1 align="left">Applications:</h3>
 
 ###
 
